@@ -16,8 +16,13 @@ La pregunta 1 se encuentra en el archivo .pdf
 
 ## PREGUNTA 02
 
-La pregunta 2 se encuentra en el archivo .jpeg
+La pregunta 2 se encuentra en el archivo .JPG
 
 ## PREGUNTA 03
 
-La pregunta 3 se encuentra en el archivo .jpeg
+La pregunta 3 se encuentra en el archivo .JPG
+
+
+## PREGUNTA 04
+
+La pregunta 4 se encuentra en el archivo .JPG
